@@ -10,6 +10,9 @@
     "rest",
     "rpc"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/ruimarinho/bitcoin-core",
   "bugs": "https://github.com/ruimarinho/bitcoin-core/issues",
   "license": "MIT",
